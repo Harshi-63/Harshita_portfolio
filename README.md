@@ -1,16 +1,33 @@
-# Responsive Portfolio Website Patrick
-## [Watch it on youtube](https://youtu.be/Y4-xMb-eHOQ)
-### Responsive Portfolio Website Patrick
+# Harshita Shreya's Portfolio
 
-- Responsive Portfolio Website Design Using HTML CSS & JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Contains a beautiful dark theme.
-- The color of the project can be customized.
-- Sending emails in the contact section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Welcome to my portfolio! I am an aspiring software developer and a Computer Science student at **KIIT University**. This site showcases my projects, skills, and achievements in **Android Development**, **Software Development**, and **Cybersecurity**.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+## Skills
+- **Languages**: Java, Kotlin, Dart, Python
+- **Mobile**: Android, Flutter
+- **Web**: HTML, CSS, JavaScript
+- **Tools**: Firebase, Git, Node.js (planned), GitHub
 
-![preview img](/preview.png)
+## Projects
+
+### 1. **SafeHaven App**
+A mobile app for safety with real-time location sharing, automated safety responses, and anti-stalking features.
+
+### 2. **Sign Language to Text Conversion**
+An app to convert sign language videos into real-time text for easier communication.
+
+### 3. **Kruskal’s Algorithm in Java**
+A program that finds the minimum spanning tree using Kruskal’s algorithm.
+
+### 4. **Flutter Cross-Platform App**
+A cross-platform app using Flutter for both iOS and Android.
+
+## Contact
+- **Email**: [shreyaharshita2693@gmail.com](mailto:shreyaharshita2693@gmail.com)
+- **LinkedIn**: [Harshita Shreya](https://www.linkedin.com/in/harshita-shreya-22051424/)
+- **GitHub**: [Harshita GitHub](https://github.com/HarshitaShreya)
+
+## Installation
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/HarshitaShreya/portfolio.git
