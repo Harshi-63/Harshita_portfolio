@@ -19,13 +19,14 @@
       -> Copy the color mode (HSL)
   */
 
-  --hue: 162;
-  --first-color: hsl(var(--hue), 100%, 40%);
-  --first-color-alt: hsl(var(--hue), 56%, 35%);
-  --title-color: hsl(228, 8%, 95%);
-  --text-color: hsl(228, 8%, 65%);
-  --body-color: hsl(228, 15%, 20%);
-  --container-color: hsl(228, 15%, 15%);
+  --hue: 240; /* Deep Purples & Blues */
+  --first-color: hsl(var(--hue), 30%, 35%); /* Muted Navy Blue */
+  --first-color-alt: hsl(var(--hue), 25%, 30%); /* Darker Navy */
+  --title-color: hsl(240, 20%, 85%); /* Soft Light Grayish White */
+  --text-color: hsl(240, 10%, 65%); /* Neutral Gray for Readability */
+  --body-color: hsl(240, 15%, 12%); /* Almost Black for a Sleek Look */
+  --container-color: hsl(240, 15%, 18%); /* Dark Charcoal for Subtle Contrast */
+
 
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
